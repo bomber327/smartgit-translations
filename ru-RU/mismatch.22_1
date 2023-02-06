@@ -1,0 +1,35 @@
+# DON'T EDIT, this file will be rewritten!
+# 
+dlgSgCheckoutTarget.inf=Be careful when checking out a commit instead of a local branch: commits on top of a commit can get lost easily.
+dlgSgOpenRepository.inf=Specify the local Git or Mercurial repository to open. To create a new repository, specify an empty directory.
+wndLog.mniBranchesSectionizeAfterLastSlash=After last slash
+wndLog.mniBranchesSectionizeCompact=Except for single items
+wndLog.mniBranchesSectionsBeforeRefs=Show groups first
+wndLog.mniEditCommitMessage=Edit Commit Message
+wndLog.mniFixup=Fixup
+wndLog.mniLogShowOnlyFirstParents=Show Only First Parents
+wndLog.mniLogWorkingTreeIndexPermanent=Show Working Tree  Index Permanently
+wndLog.mniRebaseHeadTo=Rebase HEAD To
+wndLog.mniRename=Rename
+wndLog.mniRepositoryClose=Close
+wndLog.mniRepositoryFavorite=Unmark as Favorite
+wndLog.mniSortCommitsAsIs=Sort Commits by Time
+wndLog.mniSquashCommits=Squash Commits
+wndProject.mniBranchesSectionizeAfterLastSlash=After last slash
+wndProject.mniBranchesSectionizeCompact=Except for single items
+wndProject.mniBranchesSectionsBeforeRefs=Show groups first
+wndProject.mniEditCommitMessage=Edit Commit Message
+wndProject.mniFixup=Fixup
+wndProject.mniOpen=Open from Working Tree
+wndProject.mniRebaseHeadTo=Rebase HEAD To
+wndProject.mniRename=Rename
+wndProject.mniRepositoryClose=Close
+wndProject.mniRepositoryFavorite=Unmark as Favorite
+wndProject.mniSquashCommits=Squash Commits
+wndStd.mniEditCommitMessage=Edit Commit Message
+wndStd.mniFixup=Fixup
+wndStd.mniRebaseHeadTo=Rebase HEAD To
+wndStd.mniRename=Rename
+wndStd.mniRepositoryClose=Close
+wndStd.mniRepositoryFavorite=Unmark as Favorite
+wndStd.mniSquashCommits=Squash Commits
