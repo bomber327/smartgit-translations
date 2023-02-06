@@ -2,6 +2,10 @@
 # 
 dlgSgCheckoutTarget.inf=Be careful when checking out a commit instead of a local branch: commits on top of a commit can get lost easily.
 dlgSgOpenRepository.inf=Specify the local Git or Mercurial repository to open. To create a new repository, specify an empty directory.
+dlgSgPreferences.chk"For ambiguous protocols like 'https', show dialog to choose between Git and SVN clone"=\
+ For ambiguous protocols like 'http', show dialog to choose between Git and SVN clone
+dlgSgRepositorySettings.hdl=Edit the effective repository settings
+dlgSgRepositorySettings.inf=Here you can see and edit the effective Git settings for the user config file and the repository. To save the options as user settings, select 'Remember as default'.
 wndLog.mniBranchesSectionizeAfterLastSlash=After last slash
 wndLog.mniBranchesSectionizeCompact=Except for single items
 wndLog.mniBranchesSectionsBeforeRefs=Show groups first
@@ -18,6 +22,7 @@ wndLog.mniSquashCommits=Squash Commits
 wndProject.mniBranchesSectionizeAfterLastSlash=After last slash
 wndProject.mniBranchesSectionizeCompact=Except for single items
 wndProject.mniBranchesSectionsBeforeRefs=Show groups first
+wndProject.mniCopyCommitId=Copy ID
 wndProject.mniEditCommitMessage=Edit Commit Message
 wndProject.mniFixup=Fixup
 wndProject.mniOpen=Open from Working Tree
@@ -33,3 +38,4 @@ wndStd.mniRename=Rename
 wndStd.mniRepositoryClose=Close
 wndStd.mniRepositoryFavorite=Unmark as Favorite
 wndStd.mniSquashCommits=Squash Commits
+wndStd.tbr"  History  "=History

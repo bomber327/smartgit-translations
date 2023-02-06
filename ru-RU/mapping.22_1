@@ -2941,6 +2941,7 @@ wndGit.indexEditor.tbtFile-save=Save file modifications.
 wndGit.indexEditor.tbtGoto-next-diff=Go to next change.
 wndGit.indexEditor.tbtGoto-previous-diff=Go to previous change.
 wndLog.col"LFS"=LFS
+wndLog.lblStatusBarMessage"Please wait ..."=Please wait ...
 wndLog.mni"Cherry-Pick $1 to '$2'"=Cherry-Pick $1 to '$2'
 wndLog.mni"Committer Abbreviated"=Committer Abbreviated
 wndLog.mni"Committer Avatar"=Committer Avatar
@@ -2966,9 +2967,17 @@ wndLog.tbt"Refresh information from Bitbucket."=Refresh information from Bitbuck
 wndProject.lblStatusBarMessage"Fetching new commits from https://github.com/bomber327/smartgit-translations.git..."=Fetching new commits from https://github.com/bomber327/smartgit-translations.git...
 wndProject.lblStatusBarMessage"Please wait ..."=Please wait ...
 wndProject.lblStatusBarMessage"Refreshing..."=Refreshing...
+wndProject.lblStatusBarMessage"Resolving deltas: 100\% \(2/2\), completed with 1 local object."=\
+ Resolving deltas: 100\% \(2/2\), completed with 1 local object.
+wndProject.lblStatusBarMessage"Resolving deltas: 100\% \(3/3\), completed with 3 local objects."=\
+ Resolving deltas: 100\% \(3/3\), completed with 3 local objects.
 wndProject.lblStatusBarMessage"Saving stash..."=Saving stash...
 wndProject.lblStatusBarMessage"Updating local state..."=Updating local state...
 wndProject.lblStatusBarMessage"Updating remote state..."=Updating remote state...
+wndProject.lblStatusBarMessage"Writing objects: 100\% \(4/4\), 1.74 KiB \| 296.00 KiB/s, done."=\
+ Writing objects: 100\% \(4/4\), 1.74 KiB \| 296.00 KiB/s, done.
+wndProject.lblStatusBarMessage"Writing objects: 100\% \(7/7\), 53.64 KiB \| 2.98 MiB/s, done."=\
+ Writing objects: 100\% \(7/7\), 53.64 KiB \| 2.98 MiB/s, done.
 wndProject.mni"Log Selection"=Log Selection
 wnd(Annotate|Compare|ConflictSolver|Deepgit|Git.indexEditor|Editor|Log|Project|Std|).lblStatusBarMessage"Ready"=Ready
 wnd(Annotate|Compare|ConflictSolver|Deepgit|Git.indexEditor|Editor|Log|Project|Std|).mniWindow-fullScreen=Full Screen
