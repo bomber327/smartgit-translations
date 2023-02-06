@@ -727,6 +727,11 @@ dlgSgCommitAmendAlreadyPushedCommit.btn"Amend"=Amend
 dlgSgCommitAmendAlreadyPushedCommit.fur=If you amend a pushed commit, you will need to force-push it later. This might overwrite other users' changes.
 dlgSgCommitAmendAlreadyPushedCommit.hdl=Do you want to amend an already pushed commit?
 dlgSgCommitAmendAlreadyPushedCommit.tle=Commit
+dlgSgCommitAndPushJustSubset.btn"Commit Subset"=Commit Subset
+dlgSgCommitAndPushJustSubset.chk=Don't show again
+dlgSgCommitAndPushJustSubset.fur=Your working tree contains more changes than just the selected ones.
+dlgSgCommitAndPushJustSubset.hdl=Do you want to commit and push just a subset of all changes?
+dlgSgCommitAndPushJustSubset.tle=Commit
 dlgSgCommitCantAmend.fur=Can't modify an already pushed commit. If you know what you are doing and want to enable it, select the option 'Allow modifying pushed commits' in the preferences.
 dlgSgCommitCantAmend.hdl=Can't amend commit.
 dlgSgCommitCantAmend.tle=Commit
@@ -2971,6 +2976,8 @@ wndProject.lblStatusBarMessage"Resolving deltas: 100\% \(2/2\), completed with 1
  Resolving deltas: 100\% \(2/2\), completed with 1 local object.
 wndProject.lblStatusBarMessage"Resolving deltas: 100\% \(3/3\), completed with 3 local objects."=\
  Resolving deltas: 100\% \(3/3\), completed with 3 local objects.
+wndProject.lblStatusBarMessage"Resolving deltas: 100\% \(6/6\), completed with 5 local objects."=\
+ Resolving deltas: 100\% \(6/6\), completed with 5 local objects.
 wndProject.lblStatusBarMessage"Saving stash..."=Saving stash...
 wndProject.lblStatusBarMessage"Updating local state..."=Updating local state...
 wndProject.lblStatusBarMessage"Updating remote state..."=Updating remote state...
@@ -2978,6 +2985,8 @@ wndProject.lblStatusBarMessage"Writing objects: 100\% \(4/4\), 1.74 KiB \| 296.0
  Writing objects: 100\% \(4/4\), 1.74 KiB \| 296.00 KiB/s, done.
 wndProject.lblStatusBarMessage"Writing objects: 100\% \(7/7\), 53.64 KiB \| 2.98 MiB/s, done."=\
  Writing objects: 100\% \(7/7\), 53.64 KiB \| 2.98 MiB/s, done.
+wndProject.lblStatusBarMessage"Writing objects: 100\% \(8/8\), 4.23 KiB \| 618.00 KiB/s, done."=\
+ Writing objects: 100\% \(8/8\), 4.23 KiB \| 618.00 KiB/s, done.
 wndProject.mni"Log Selection"=Log Selection
 wnd(Annotate|Compare|ConflictSolver|Deepgit|Git.indexEditor|Editor|Log|Project|Std|).lblStatusBarMessage"Ready"=Ready
 wnd(Annotate|Compare|ConflictSolver|Deepgit|Git.indexEditor|Editor|Log|Project|Std|).mniWindow-fullScreen=Full Screen

@@ -2,6 +2,11 @@
 # 
 # BUILD: 19255
 # 
+dlgSgCommitAndPushJustSubset.btn"Commit Subset"=Commit Subset
+dlgSgCommitAndPushJustSubset.chk=Don't show again
+dlgSgCommitAndPushJustSubset.fur=Your working tree contains more changes than just the selected ones.
+dlgSgCommitAndPushJustSubset.hdl=Do you want to commit and push just a subset of all changes?
+dlgSgCommitAndPushJustSubset.tle=Commit
 dlgSgOpenManyFiles.btn"Show Changes"=Show Changes
 dlgSgOpenManyFiles.fur=This warning occurs when you try to show changes for more than 3 files at once. You can change this limit in the Preferences.
 dlgSgOpenManyFiles.hdl=Do you really want to show changes for 5 files at once?
@@ -14,6 +19,8 @@ wndProject.lblStatusBarMessage"Resolving deltas: 100\% \(2/2\), completed with 1
  Resolving deltas: 100\% \(2/2\), completed with 1 local object.
 wndProject.lblStatusBarMessage"Resolving deltas: 100\% \(3/3\), completed with 3 local objects."=\
  Resolving deltas: 100\% \(3/3\), completed with 3 local objects.
+wndProject.lblStatusBarMessage"Resolving deltas: 100\% \(6/6\), completed with 5 local objects."=\
+ Resolving deltas: 100\% \(6/6\), completed with 5 local objects.
 wndProject.lblStatusBarMessage"Saving stash..."=Saving stash...
 wndProject.lblStatusBarMessage"Updating local state..."=Updating local state...
 wndProject.lblStatusBarMessage"Updating remote state..."=Updating remote state...
@@ -21,3 +28,5 @@ wndProject.lblStatusBarMessage"Writing objects: 100\% \(4/4\), 1.74 KiB \| 296.0
  Writing objects: 100\% \(4/4\), 1.74 KiB \| 296.00 KiB/s, done.
 wndProject.lblStatusBarMessage"Writing objects: 100\% \(7/7\), 53.64 KiB \| 2.98 MiB/s, done."=\
  Writing objects: 100\% \(7/7\), 53.64 KiB \| 2.98 MiB/s, done.
+wndProject.lblStatusBarMessage"Writing objects: 100\% \(8/8\), 4.23 KiB \| 618.00 KiB/s, done."=\
+ Writing objects: 100\% \(8/8\), 4.23 KiB \| 618.00 KiB/s, done.
